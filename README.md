@@ -1,3 +1,3 @@
 # paddy
 This my first repository 
-Autor - kiran khandekar
+Author - kiran khandekar
